@@ -10,7 +10,7 @@
 
 Siégeant aux Pays-Bas, ce moteur de recherche tire ses résultats de Google, souvent jugés comme les meilleurs, tout en supprimant tous type de traçage de la part de Google. StartPage offre aussi un "Mode Anonyme", permettant d'ouvrir une page web anonymement.
 
-[Startpage.com - The world's most private search engine](https://www.startpage.com)
+[Accéder à Startpage](https://www.startpage.com)
 
 ---
 
@@ -18,7 +18,7 @@ Siégeant aux Pays-Bas, ce moteur de recherche tire ses résultats de Google, so
 
 Moteur basé aux États-Unis, c'est l'un des plus populaires. Les [bangs](https://duckduckgo.com/bang) sont très intéressants, ils réduisent considérablement votre temps de recherche une fois maîtrisés.
 
-[DuckDuckGo - Privacy, simplified.](https://duckduckgo.com)
+[Accéder à DuckDuckGo](https://duckduckgo.com)
 
 ---
 
@@ -26,7 +26,7 @@ Moteur basé aux États-Unis, c'est l'un des plus populaires. Les [bangs](https:
 
 Moteur de recherche Suisse, hébergé dans le [datacenter](https://www.mount10.ch/fr/mount10/swiss-fort-knox/) le plus sécurisé d'Europe.
 
-[Swisscows die alternative, datensichere Suchmaschine.](https://swisscows.com)
+[Accéder à SwissCows](https://swisscows.com)
 
 ---
 
@@ -34,7 +34,7 @@ Moteur de recherche Suisse, hébergé dans le [datacenter](https://www.mount10.c
 
 Searx est open-source et hébergeable soi-même. Cliquez **[ici](https://searx.space)** pour voir la liste des instances si vous ne voulez ou pouvez pas l'héberger vous même.
 
-[](https://searx.me)
+[Accéder à Searx](https://searx.me)
 
 ---
 
@@ -42,7 +42,7 @@ Searx est open-source et hébergeable soi-même. Cliquez **[ici](https://searx.s
 
 Qwant est un moteur made in France et respectueux de la vie privée.
 
-[Qwant](https://www.qwant.com)
+[Accéder à Qwant](https://www.qwant.com)
 
 ---
 
@@ -50,4 +50,4 @@ Qwant est un moteur made in France et respectueux de la vie privée.
 
 Moteur de recherche open-source allemand. Il offre, tout comme StartPage, un "mode anonyme" pour visualiser des pages web sans laisser de traces.
 
-[MetaGer: Privacy Protected Search & Find](https://metager.org)
+[Accéder à MetaGer](https://metager.org)
