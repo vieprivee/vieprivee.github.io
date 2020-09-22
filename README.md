@@ -3,3 +3,4 @@
 ### Vous êtes espionnés, énormément de firmes collectent vos données afin de les revendre. ViePrivée propose des alternatives respectueuses de la vie privée.
 
 - [Navigateurs Internet](/Navigateurs/index.md)
+- [Moteurs de recherche](/Moteurs/index.md)
