@@ -1,8 +1,8 @@
 ### Bienvenue sur ViePrivée
 
-*Vous êtes espionnés, énormément de firmes collectent vos données afin de les revendre. ViePrivée vous propose des alternatives respectueuses de la vie privée.*
+*On vous espionne. ViePrivée fournit des services, des outils et des connaissances pour protéger votre vie privée contre la surveillance mondiale de masse.*
 
-[Pourquoi c'est important](/importance/index.md)
+###[Pourquoi est-ce important ?](/importance/index.md)
 
 - [Navigateurs Internet](/navigateurs/index.md)
 - [Moteurs de recherche](/moteurs/index.md)
