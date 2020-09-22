@@ -10,9 +10,9 @@ Mozilla Firefox est fiable, rapide et open source. Ce navigateur offre une bonne
 
 Néanmoins, ce n'est pas entièrement le cas dès l'installation (une avancée par rapport à Google Chrome quand même), il faudra y apporter quelques modifications dans les paramètres.
 
-[Modifications à apporter à Firefox](Navigateurs%20internet%20a0c2c16a98644f39b339904bc04a386b/Modifications%20a%CC%80%20apporter%20a%CC%80%20Firefox%20ea9503e0b9ef48599cca1ca50f6db687.md)
+[Modifications à apporter à Firefox](/firefoxmodifs.md)
 
-[Firefox - Une gamme de produits qui protègent votre vie privée](https://www.mozilla.org/fr/firefox/)
+[Site de Mozilla Firefox](https://www.mozilla.org/fr/firefox/)
 
 ## Brave
 
@@ -20,7 +20,7 @@ Brave, fondé par le créateur de Firefox, Brendan Eich, est un navigateur basé
 
 Pratique pour les débutants. Il offre une bonne très protection de la vie privée par défaut, aucune configuration supplémentaire n'est nécessaire. Les publicités, traceurs, scripts, collectes de données sont bloqués, au premier lancement.
 
-[Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/fr/)
+[Site de Brave](https://brave.com/fr/)
 
 ## Tor
 
@@ -34,7 +34,7 @@ Attention, il peut rendre des sites inutilisables dû au blocage du JavaScript. 
 
 Cependant il garantit un anonymat, une très bonne protection et un accès aux sites en [.onion](https://fr.wikipedia.org/wiki/.onion).
 
-[The Tor Project | Privacy & Freedom Online](https://www.torproject.org/)
+[Site de Tor Project](https://www.torproject.org/)
 
 # Pour Mobiles
 
@@ -42,12 +42,12 @@ Cependant il garantit un anonymat, une très bonne protection et un accès aux s
 
 Bromite est, lui aussi, basé sur Chromium. Excellente configuration respectueuse de la vie privée par défaut, et rien d'autre. Disponible **uniquement** sur Android.
 
-[Bromite](https://www.bromite.org)
+[Site de Bromite](https://www.bromite.org)
 
 ## Firefox Focus
 
 Version de Firefox plus axée sur la vie privée. Disponible sur iOS et Android.
 
-[‎Firefox Focus](https://apps.apple.com/fr/app/id1055677337)
+[Firefox Focus pour iOS](https://apps.apple.com/fr/app/id1055677337)
 
-[Firefox Focus : le navigateur privé - Applications sur Google Play](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr)
+[Firefox Focus pour Android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr)
