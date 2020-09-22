@@ -1,6 +1,6 @@
 # Navigateurs internet
 
-*Google Chrome est le navigateur le plus populaire et le plus répandu de tous les navigateurs. Cependant il n'est en aucun cas respectueux de la vie privée. C'est un énorme outil de collecte de données. Voici des alternatives plus respectueuses en terme de confidentialité.*
+*Google Chrome est le navigateur le plus populaire et le plus répandu de tous. Cependant il n'est en aucun cas respectueux de la vie privée. C'est un énorme outil de collecte de données. Voici des alternatives plus respectueuses en terme de confidentialité.*
 
 # Pour ordinateurs
 
@@ -20,7 +20,7 @@ Brave, fondé par le créateur de Firefox, Brendan Eich, est un navigateur basé
 
 Pratique pour les débutants. Il offre une bonne très protection de la vie privée par défaut, aucune configuration supplémentaire n'est nécessaire. Les publicités, traceurs, scripts, collectes de données sont bloqués, au premier lancement.
 
-[Site de Brave](https://brave.com/fr/)
+[Télécharger Brave](https://brave.com/fr/)
 
 ## Tor
 
@@ -34,7 +34,7 @@ Attention, il peut rendre des sites inutilisables dû au blocage du JavaScript. 
 
 Cependant il garantit un anonymat, une très bonne protection et un accès aux sites en [.onion](https://fr.wikipedia.org/wiki/.onion).
 
-[Site de Tor Project](https://www.torproject.org/)
+[Télécharger Tor](https://www.torproject.org/)
 
 # Pour Mobiles
 
@@ -42,12 +42,12 @@ Cependant il garantit un anonymat, une très bonne protection et un accès aux s
 
 Bromite est, lui aussi, basé sur Chromium. Excellente configuration respectueuse de la vie privée par défaut, et rien d'autre. Disponible **uniquement** sur Android.
 
-[Site de Bromite](https://www.bromite.org)
+[Télécharger Bromite](https://www.bromite.org)
 
 ## Firefox Focus
 
 Version de Firefox plus axée sur la vie privée. Disponible sur iOS et Android.
 
-[Firefox Focus pour iOS](https://apps.apple.com/fr/app/id1055677337)
+[Télécharger Firefox Focus pour iOS](https://apps.apple.com/fr/app/id1055677337)
 
-[Firefox Focus pour Android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr)
+[Télécharger Firefox Focus pour Android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr)
