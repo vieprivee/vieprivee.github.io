@@ -1,6 +1,6 @@
 # Navigateurs internet
 
-*Google Chrome est le navigateur le plus populaire et le plus répandu de tous les navigateurs. Cependant il n'est en aucun cas respectueux de la vie privée. C'est un énorme outil de collecte de données. Voici des alternatives plus respectueuses en terme de confidentialité. /callout*
+*Google Chrome est le navigateur le plus populaire et le plus répandu de tous les navigateurs. Cependant il n'est en aucun cas respectueux de la vie privée. C'est un énorme outil de collecte de données. Voici des alternatives plus respectueuses en terme de confidentialité.
 
 # Pour ordinateurs
 
