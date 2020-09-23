@@ -46,9 +46,7 @@ Si vous êtes dans l'écosystème d'Apple, ce navigateur est une très bonne opt
 
 ### Mentions honorables
 
-- **Ungoogled Chromium** : Similaire à Brave, ungoogled chromium est lui aussi basé sur Chromium. Cependant, son but est simplement de retirer toute trace de Google du navigateur. C'est à l'utilisateur d'ajouter (ou non) des extensions pour bloquer les publicités, le traçage etc. Cependant il ne se met pas à jour tout seul, les extensions doivent être installées manuellement. Un usage compliqué pour un utilisateur pas assez expérimenté. [Télécharger Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
-
-Cependant 
+- **Ungoogled Chromium** : Similaire à Brave, ungoogled chromium est lui aussi basé sur Chromium. Cependant, son but est simplement de retirer toute trace de Google du navigateur. C'est à l'utilisateur d'ajouter (ou non) des extensions pour bloquer les publicités, le traçage etc. Cependant il ne se met pas à jour tout seul, les extensions doivent être installées manuellement. Un usage compliqué pour un utilisateur pas assez expérimenté. [Télécharger Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) 
 
 # Pour Mobiles
 
