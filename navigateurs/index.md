@@ -26,8 +26,6 @@ Pratique pour les débutants et habitués de Google Chrome. Il offre une bonne t
 
 [Télécharger Brave](https://brave.com/fr/)
 
----
-
 ## Tor
 
 Tor est une version avancée de Firefox, configurée pour fonctionner sur le réseau Tor. Si la vie privée et l'anonymat sont vos plus grandes préoccupations, Tor une excellente option.
@@ -42,21 +40,15 @@ Cependant il garantit un anonymat, une très bonne protection et un accès aux s
 
 [Télécharger Tor](https://www.torproject.org/)
 
----
-
 ## Safari
 
 Safari, le navigateur par défaut d'Apple. Apple a récemment mis en œuvre de nombreuses fonctionnalités protégeant la vie privée des utilisateurs. Safari inclut désormais une protection contre le *fingerprinting* et le traçage, une réduction des données collectés par Apple, des accès aux permissions très stricts, des suggestions de recherche confidentielles et plus.
 
 Si vous êtes dans l'écosystème d'Apple, ce navigateur est une très bonne option. Notez cependant qu'il n'est pas open-source et peu customisable.
 
----
-
 ### Mentions honorables
 
 - **Ungoogled Chromium** : Similaire à Brave, ungoogled chromium est lui aussi basé sur Chromium. Mais son but est simplement de retirer toute trace de Google du navigateur. C'est à l'utilisateur d'ajouter (ou non) des extensions pour bloquer les publicités, le traçage etc. Cependant il ne se met pas à jour tout seul, les extensions doivent être installées manuellement. Un usage compliqué pour un utilisateur pas assez expérimenté. [Télécharger Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
-
----
 
 # Pour Mobiles
 
