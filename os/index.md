@@ -26,7 +26,7 @@ Linux Mint, a été conçu pour être facile à utiliser et prêt à l'emploi d�
 
 ## macOS
 
-MacOS reste un excellent choix, très intuitif, bon sur la sécurité, la collecte de données par Apple est minime, anonymisée désactivable. C'est une bien meilleure option que Windows 10 sur les aspects de la confidentialité.
+MacOS reste un excellent choix, très intuitif, bon sur la sécurité, la collecte de données par Apple est minime, anonymisée et désactivable. C'est une bien meilleure option que Windows 10 sur les aspects de la confidentialité.
 
 [Mieux configurer son Mac pour la confidentialité](./mac.md)
 
