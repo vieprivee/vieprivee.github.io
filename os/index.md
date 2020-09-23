@@ -16,7 +16,7 @@ Avant de commencer, il faut savoir comment faire, cliquez [ici](https://www.yout
 
 Ubuntu est une des distributions de Linux les plus populaires. Elle offre une bonne sécurité et a été conçue dans le but de simplifier Linux et de le proposer au grand public. 
 
-[Télécharger Ubuntu]
+[Télécharger Ubuntu](https://ubuntu.com/download/desktop)
 
 ---
 
@@ -30,8 +30,9 @@ Linux Mint, a été conçu pour être facile à utiliser et prêt à l'emploi d�
 
 ## macOS
 
-MacOS reste un excellent choix, la collecte de données par Apple est anonymisée et vous pouvez même la désactiver. C'est une bien meilleure option que Windows 10 sur les aspects de la vie privée.
+MacOS reste un excellent choix, très intuitif sur la sécurité, la collecte de données par Apple est anonymisée et vous pouvez même la désactiver. C'est une bien meilleure option que Windows 10 sur les aspects de la vie privée.
 
+[Comment configurer votre Mac pour le respect de la vie privée](./mac)
 [Acheter un Mac](https://www.apple.com/fr/)
 
 ---
