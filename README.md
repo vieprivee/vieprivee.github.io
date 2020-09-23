@@ -3,6 +3,7 @@
 *On vous espionne. ViePrivée fournit des services, des outils et des connaissances pour protéger votre vie privée contre la surveillance mondiale de masse.*
 
 [Pourquoi est-ce important ?](/importance/index.md)
+
 [La mission de ViePrivée](/mission/index.md)
 
 - [Navigateurs Internet](/navigateurs/index.md)
