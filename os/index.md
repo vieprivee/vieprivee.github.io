@@ -8,7 +8,7 @@
 
 ## Comment changer son système d'exploitation
 
-Avant de commencer, il faut savoir comment faire, cliquez [ici](./tutolinux).
+Avant de commencer, il faut savoir comment faire, cliquez [ici](./tutolinux.md).
 
 ---
 
