@@ -8,7 +8,7 @@
 
 Mozilla Firefox est fiable, rapide et open source. Ce navigateur offre une bonne protection de la vie privée, beaucoup de personnalisation, des mises à jours fréquentes ainsi qu'une équipe à fond dans le projet.
 
-Néanmoins, ce n'est pas entièrement le cas dès l'installation (une avancée par rapport à Google Chrome quand même), il faudra y apporter quelques modifications dans les paramètres.
+Néanmoins, en ce qui concerne la protection, ce n'est pas entièrement le cas dès l'installation (par exemple la collecte de données par défaut), il faudra y apporter quelques modifications dans les paramètres afin d'obtenir une excellente protection.
 
 [Modifications à apporter à Firefox](/firefoxmodifs.md)
 
@@ -18,7 +18,9 @@ Néanmoins, ce n'est pas entièrement le cas dès l'installation (une avancée p
 
 Brave, fondé par le créateur de Firefox, Brendan Eich, est un navigateur basé sur [Chromium](https://fr.wikipedia.org/wiki/Chromium), la version Open Source de Chrome. Cela rend la transition des utilisateurs de Google Chrome très facile. Mais contrairement à Google Chrome, **Brave ne collecte aucune donnée**.
 
-Pratique pour les débutants. Il offre une bonne très protection de la vie privée par défaut, aucune configuration supplémentaire n'est nécessaire. Les publicités, traceurs, scripts, collectes de données sont bloqués, au premier lancement.
+Brave contient ses propres publicités sous forme de notifications en vous offrant 70% des revenus en sa cryptomonnaie, le BAT. Vous pouvez évidemment renoncer à ces publicités.
+
+Pratique pour les débutants et habitués de Google Chrome. Il offre une bonne très protection de la vie privée par défaut, aucune configuration supplémentaire n'est nécessaire. Les publicités, traceurs, scripts, collectes de données sont bloqués, au premier lancement. Il inclut même Tor.
 
 [Télécharger Brave](https://brave.com/fr/)
 
@@ -35,6 +37,18 @@ Attention, il peut rendre des sites inutilisables dû au blocage du JavaScript. 
 Cependant il garantit un anonymat, une très bonne protection et un accès aux sites en [.onion](https://fr.wikipedia.org/wiki/.onion).
 
 [Télécharger Tor](https://www.torproject.org/)
+
+## Safari
+
+Safari, le navigateur par défaut d'Apple. Apple a récemment mis en œuvre de nombreuses fonctionnalités protégeant la vie privée des utilisateurs. Safari inclut désormais une protection contre le *fingerprinting* et le traçage, une réduction des données collectés par Apple, des accès aux permissions très stricts, des suggestions de recherche confidentielles.
+
+Si vous êtes dans l'écosystème d'Apple, ce navigateur est une très bonne option. Notez cependant qu'il n'est pas open-source et peu customisable.
+
+### Mentions honorables
+
+- **Ungoogled Chromium** : Similaire à Brave, ungoogled chromium est lui aussi basé sur Chromium. Cependant, son but est simplement de retirer toute trace de Google du navigateur. C'est à l'utilisateur d'ajouter (ou non) des extensions pour bloquer les publicités, le traçage etc. Cependant il ne se met pas à jour tout seul, les extensions doivent être installées manuellement. Un usage compliqué pour un utilisateur pas assez expérimenté. [Télécharger Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
+
+Cependant 
 
 # Pour Mobiles
 
