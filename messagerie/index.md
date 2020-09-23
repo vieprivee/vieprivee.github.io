@@ -4,7 +4,7 @@
 
 ## Signal
 
-Signal, la messagerie préférée d'Edward Snowden, est généralement considéré comme la plus sécurisée. Signal est chiffré de bout en bout, open source et totalement gratuit. Il vous permet d'envoyer des messages (auto-destructeurs si souhaité), de passer des appels audios et vidéos. L'application est verrouillable par un code PIN. Signal s'est déjà vu demander les données de ses utilisateurs mais n'avait rien à donner.
+Signal, la messagerie préférée d'Edward Snowden, est généralement considéré comme la plus sécurisée. Signal est chiffré de bout en bout, open source et totalement gratuit. Il vous permet d'envoyer des messages (auto-destructeurs si souhaité), de passer des appels audios et vidéos. L'application est verrouillable par un code PIN. Signal s'est déjà vu demander les données de ses utilisateurs mais n'avait rien à donner, c'est encourageant.
 
 [Télécharger Signal](https://signal.org/download/)
 
@@ -20,6 +20,6 @@ Attention cependant à bien activer les "chats secrets", ceux-ci activent le chi
 
 Toutes vos communications sur Threema sont chiffrées de bout en bout : non seulement les messages, mais aussi les discussions de groupe, les appels vocaux, les fichiers multimédia et même les messages d'état. Vos messages ne peuvent être lus que par leur destinataire, de sorte que personne d'autre ne puisse intervenir et y avoir accès.
 
-Seul bémol, l'application coûte 4 euros. Il peut s'avérer difficile d'amener ses amis à payer pour quelque chose qu'ils ont toujours eu l'habitude d'avoir gratuitement.
+Petit bémol, l'application coûte 3,99 euros. Il peut s'avérer difficile d'amener ses amis à payer pour quelque chose qu'ils ont toujours eu l'habitude d'avoir gratuitement.
 
 [Télécharger Threema](https://threema.ch/)
