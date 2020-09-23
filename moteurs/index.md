@@ -24,7 +24,7 @@ Moteur basé aux États-Unis, probablement le plus populaire de cette liste. Les
 
 ## Searx
 
-Searx est un moteur de recherche open-source, gratuit et hébergeable soi-même. Il regroupe les résultats de plus de 70 services de recherche. Cliquez **[ici](https://searx.space)** pour voir la liste des instances si vous ne voulez ou pouvez pas l'héberger vous même. I
+Searx est un moteur de recherche open-source, gratuit et hébergeable soi-même. Il regroupe les résultats de plus de 70 services de recherche. Cliquez **[ici](https://searx.space)** pour voir la liste des instances si vous ne voulez ou pouvez pas l'héberger vous même.
 
 [Accéder à Searx](https://searx.me)
 
