@@ -6,7 +6,7 @@
 
 [La mission de ViePrivée](/mission/index.md)
 
-[Les 5, 9 et 14 yeux, les éviter)[/14yeux/index.md)
+[Les 5, 9 et 14 yeux, les éviter)[./14yeux/index.md)
 
 - [Navigateurs Internet](/navigateurs/index.md)
 - [Moteurs de recherche](/moteurs/index.md)
