@@ -14,6 +14,8 @@ Néanmoins, en ce qui concerne la protection, ce n'est pas entièrement le cas d
 
 [Site de Mozilla Firefox](https://www.mozilla.org/fr/firefox/)
 
+---
+
 ## Brave
 
 Brave, fondé par le créateur de Firefox, Brendan Eich, est un navigateur basé sur [Chromium](https://fr.wikipedia.org/wiki/Chromium), la version Open Source de Chrome. Cela rend la transition des utilisateurs de Google Chrome très facile. Mais contrairement à Google Chrome, **Brave ne collecte aucune donnée**.
@@ -23,6 +25,8 @@ Brave contient ses propres publicités sous forme de notifications en vous offra
 Pratique pour les débutants et habitués de Google Chrome. Il offre une bonne très protection de la vie privée par défaut, aucune configuration supplémentaire n'est nécessaire. Les publicités, traceurs, scripts, collectes de données sont bloqués, au premier lancement. Il inclut même Tor.
 
 [Télécharger Brave](https://brave.com/fr/)
+
+---
 
 ## Tor
 
@@ -38,15 +42,19 @@ Cependant il garantit un anonymat, une très bonne protection et un accès aux s
 
 [Télécharger Tor](https://www.torproject.org/)
 
+---
+
 ## Safari
 
-Safari, le navigateur par défaut d'Apple. Apple a récemment mis en œuvre de nombreuses fonctionnalités protégeant la vie privée des utilisateurs. Safari inclut désormais une protection contre le *fingerprinting* et le traçage, une réduction des données collectés par Apple, des accès aux permissions très stricts, des suggestions de recherche confidentielles.
+Safari, le navigateur par défaut d'Apple. Apple a récemment mis en œuvre de nombreuses fonctionnalités protégeant la vie privée des utilisateurs. Safari inclut désormais une protection contre le *fingerprinting* et le traçage, une réduction des données collectés par Apple, des accès aux permissions très stricts, des suggestions de recherche confidentielles et plus.
 
 Si vous êtes dans l'écosystème d'Apple, ce navigateur est une très bonne option. Notez cependant qu'il n'est pas open-source et peu customisable.
 
+---
+
 ### Mentions honorables
 
-- **Ungoogled Chromium** : Similaire à Brave, ungoogled chromium est lui aussi basé sur Chromium. Cependant, son but est simplement de retirer toute trace de Google du navigateur. C'est à l'utilisateur d'ajouter (ou non) des extensions pour bloquer les publicités, le traçage etc. Cependant il ne se met pas à jour tout seul, les extensions doivent être installées manuellement. Un usage compliqué pour un utilisateur pas assez expérimenté. [Télécharger Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) 
+- **Ungoogled Chromium** : Similaire à Brave, ungoogled chromium est lui aussi basé sur Chromium. Cependant, son but est simplement de retirer toute trace de Google du navigateur. C'est à l'utilisateur d'ajouter (ou non) des extensions pour bloquer les publicités, le traçage etc. Cependant il ne se met pas à jour tout seul, les extensions doivent être installées manuellement. Un usage compliqué pour un utilisateur pas assez expérimenté. [Télécharger Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
 
 # Pour Mobiles
 
