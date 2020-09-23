@@ -14,8 +14,6 @@ Néanmoins, en ce qui concerne la protection, ce n'est pas entièrement le cas d
 
 [Site de Mozilla Firefox](https://www.mozilla.org/fr/firefox/)
 
----
-
 ## Brave
 
 Brave, fondé par le créateur de Firefox, Brendan Eich, est un navigateur basé sur [Chromium](https://fr.wikipedia.org/wiki/Chromium), la version Open Source de Chrome. Cela rend la transition des utilisateurs de Google Chrome très facile. Mais contrairement à Google Chrome, **Brave ne collecte aucune donnée**.
@@ -57,8 +55,6 @@ Si vous êtes dans l'écosystème d'Apple, ce navigateur est une très bonne opt
 Bromite est, lui aussi, basé sur Chromium. Excellente configuration respectueuse de la vie privée par défaut, et rien d'autre. Disponible **uniquement** sur Android.
 
 [Télécharger Bromite](https://www.bromite.org)
-
----
 
 ## Firefox Focus
 
