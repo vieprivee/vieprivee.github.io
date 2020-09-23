@@ -13,4 +13,4 @@ Copier le texte :
 
 `` ViePrivée est un outil gratuit fournissant tout le nécessaire vous permettant de reprendre votre vie privée en main, sécuriser vos appareils et naviguer en toute sécurité.
 
-www.vieprivee.github.io``
+www.vieprivee.github.io ``
