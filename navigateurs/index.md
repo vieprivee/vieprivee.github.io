@@ -69,4 +69,5 @@ Version de Firefox plus axée sur la vie privée. Disponible sur iOS et Android.
 Fonctionne de la même manière que la version pour ordinateurs.
 
 [Télécharger Tor pour iOS](https://apps.apple.com/us/app/onion-browser/id519296448)
+
 [Télécharger Tor pour Android](https://www.torproject.org/download/)
