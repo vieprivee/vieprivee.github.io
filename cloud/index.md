@@ -28,4 +28,6 @@ Nextcloud est un peu différent des autres, il offre plus de fonctionnalités, e
 
 Héberger son propre Nextcloud :
 - [Gandi](https://www.gandi.net/fr/simple-hosting/nextcloud)
+- [Ionos 1&1](https://www.ionos.fr/cloud/cloud-apps/nextcloud)
 - [Infomaniak](https://www.infomaniak.com/fr/creer-un-site/cms/hebergement-nextcloud)
+- [Ikoula](https://www.ikoula.com/fr/cloud-public/oneclick/nextcloud)
