@@ -6,10 +6,10 @@
 
 [La mission de ViePrivée](/mission/index.md)
 
+- [Systèmes d'exploitation](/os/index.md)
 - [Navigateurs Internet](/navigateurs/index.md)
 - [Moteurs de recherche](/moteurs/index.md)
 - [Messagerie instantanée](/messagerie/index.md)
 - [Courrier électronique](/email/index.md)
 - [Hébergement Cloud](/cloud/index.md)
 - [Gestionnaire de mots de passe](/passe/index.md)
-- [Systèmes d'exploitation](/os/index.md)
