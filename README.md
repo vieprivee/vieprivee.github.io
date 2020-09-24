@@ -10,6 +10,7 @@
 - [Navigateurs Internet](/navigateurs/index.md)
 - [Moteurs de recherche](/moteurs/index.md)
 - [Messagerie instantanée](/messagerie/index.md)
+- [Réseaux Sociaux] (à faire)
 - [Courrier électronique](/email/index.md)
 - [Hébergement Cloud](/cloud/index.md)
 - [Gestionnaire de mots de passe](/passe/index.md)
