@@ -63,3 +63,10 @@ Version de Firefox plus axée sur la vie privée. Disponible sur iOS et Android.
 [Télécharger Firefox Focus pour iOS](https://apps.apple.com/fr/app/id1055677337)
 
 [Télécharger Firefox Focus pour Android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr)
+
+## Tor
+
+Fonctionne de la même manière que la version pour ordinateurs.
+
+[Télécharger Tor pour iOS](https://apps.apple.com/us/app/onion-browser/id519296448)
+[Télécharger Tor pour Android](https://www.torproject.org/download/)
