@@ -31,3 +31,10 @@ Héberger son propre Nextcloud :
 - [Ionos 1&1](https://www.ionos.fr/cloud/cloud-apps/nextcloud)
 - [Infomaniak](https://www.infomaniak.com/fr/creer-un-site/cms/hebergement-nextcloud)
 - [Ikoula](https://www.ikoula.com/fr/cloud-public/oneclick/nextcloud)
+
+## Cryptee
+
+Service gratuit (jusqu'à 100 Mégaoctets) respectueux de la vie privée pour le stockage de documents (éditeur de documents inclus), de fichiers et de photos.
+Les tarifs sont de 3€/mois pour 10 Gigaoctets, 9€/mois pour 400 Gigaoctets et 27€/mois pour 2 Téraoctets.
+
+[Accéder à Cryptee](https://crypt.ee/)
