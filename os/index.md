@@ -6,13 +6,9 @@
 
 [Qu'est-ce-que linux et pourquoi l'utiliser?](./pourquoilinux.md)
 
----
-
 ## Pré-requis
 
 Avant de commencer, si vous ne savez pas comment changer de système d'exploitation, veuillez cliquez [ici](./tutolinux.md).
-
----
 
 ## Systèmes d'exploitation PC
 
@@ -43,7 +39,7 @@ Tails est un système d'exploitation "live", il peut démarrer sur presque tous 
 
 ### macOS
 
-MacOS reste un excellent choix, très intuitif, bon sur la sécurité, la collecte de données par Apple est minime, anonymisée et désactivable. C'est une bien meilleure option que Windows 10 sur les aspects de la vie privée.
+MacOS reste un excellent choix si vous ne voulez pas vous aventurer sur Linux, très intuitif, bon sur la sécurité, la collecte de données par Apple est minime, anonymisée et désactivable. C'est une bien meilleure option que Windows 10 sur les aspects de la vie privée. Notez que macOS n'est pas open-source.
 
 [Mieux configurer son Mac pour la confidentialité](./mac.md)
 
