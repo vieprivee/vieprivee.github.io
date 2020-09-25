@@ -11,6 +11,8 @@ Informez vos amis :
 
 Copier le texte :
 
-*ViePrivée est une ressource gratuite fournissant tout le nécessaire vous permettant de reprendre votre vie privée en main, sécuriser vos appareils et naviguer en toute sécurité.*
+```
+ViePrivée est une ressource gratuite fournissant tout le nécessaire vous permettant de reprendre votre vie privée en main, sécuriser vos appareils et naviguer en toute sécurité.
 
-*Rendez-vous sur vieprivee.github.io*
+Rendez-vous sur vieprivee.github.io
+```
