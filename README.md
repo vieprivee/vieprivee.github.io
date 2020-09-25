@@ -12,6 +12,6 @@
 - [Messagerie instantanée](/messagerie/index.md)
 - [Réseaux Sociaux] (à faire)
 - [Courrier électronique](/email/index.md)
-- [Outils de productivité] (en cours)
+- [Outils de productivité](/productivité/index.md)
 - [Hébergement Cloud](/cloud/index.md)
 - [Gestionnaire de mots de passe](/passe/index.md)
