@@ -10,7 +10,7 @@
 
 ## Pré-requis
 
-Avant de commencer, il faut savoir comment faire, cliquez [ici](./tutolinux.md).
+Avant de commencer, si vous ne savez pas comment changer de système d'exploitation, veuillez cliquez [ici](./tutolinux.md).
 
 ---
 
