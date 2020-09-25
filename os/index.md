@@ -4,13 +4,13 @@
 
 [Windows 10 - Cauchemar de la vie privée, comment mieux le configurer](/w10.md)
 
+[Qu'est-ce-que linux et pourquoi l'utiliser?](./pourquoilinux.md)
+
 ---
 
 ## Pré-requis
 
 Avant de commencer, il faut savoir comment faire, cliquez [ici](./tutolinux.md).
-
-[Pourquoi Linux ?](./pourquoilinux.md)
 
 ---
 
