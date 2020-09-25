@@ -6,9 +6,11 @@
 
 ---
 
-## Comment changer son système d'exploitation
+## Pré-requis
 
 Avant de commencer, il faut savoir comment faire, cliquez [ici](./tutolinux.md).
+
+[Pourquoi Linux ?](./pourquoilinux.md)
 
 ---
 
