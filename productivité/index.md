@@ -1,6 +1,6 @@
 # Suite bureautique
 
-*Il y a de très solides alternatives aux services tels que Google Suite et Microsoft Office, qui fonctionnent de la même manière sans porter atteinte à votre vie privée*
+*Il y a de très solides alternatives aux services tels que Google Suite et Microsoft Office, qui fonctionnent de la même manière mais sans porter atteinte à votre vie privée*
 
 ## LibreOffice
 
