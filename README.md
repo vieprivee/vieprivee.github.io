@@ -6,12 +6,13 @@
 
 [La mission de ViePrivée](/mission/)
 
-- [Systèmes d'exploitation](/os/)
-- [Navigateurs Internet](/navigateurs/)
+- [Système d'exploitation](/os/)
+- [Navigateur internet](/navigateurs/)
 - [Moteurs de recherche](/moteurs/)
 - [Messagerie instantanée](/messagerie/)
 - [Réseaux Sociaux](/social/)
 - [Courrier électronique](/email/)
-- [Outils de productivité](/productivité/)
-- [Hébergement Cloud](/cloud/)
+- [Suite bureautique](/productivité/)
+- [Vidéo-conférence](/conference/)
 - [Gestionnaire de mots de passe](/passe/)
+- [Hébergement cloud](/cloud/)
