@@ -1,6 +1,6 @@
 # Réseaux sociaux
 
-Trouvez un réseau social qui ne fouille pas dans vos données et ne monétise pas votre profil.
+*Trouvez un réseau social qui ne fouille pas dans vos données et ne monétise pas votre profil.*
 
 ## Mastodon - Alternative à Twitter
 
