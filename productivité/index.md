@@ -14,6 +14,13 @@ La suite est composée de Writer (équivalent à Word), Calc (équivalent à Exc
 
 [Télécharger pour iOS](https://apps.apple.com/us/app/collabora-office/id1440482071)
 
+## Onlyoffice
+
+Si vous aimez l'interface de Microsoft Office, OnlyOffice est ce qu'il vous faut. Gratuit, open-source et auto hébergeable si vous voulez collaborer (Nextcloud ou autres), c'est une excellente alternative.
+
+[Télécharger OnlyOffice](https://www.onlyoffice.com/fr/download-desktop.aspx)
+
+
 ## Cryptpad
 
 CryptPad est une suite en ligne, collaborative, gratuite et open-source. Tout le contenu est chiffré de bout en bout. L'équipe de développement est soutenue par des dons et des subventions. Aucun enregistrement n'est nécessaire et elle peut être utilisée de manière anonyme via le navigateur Tor.
