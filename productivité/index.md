@@ -1,4 +1,6 @@
-# Outils de productivité
+# Suite bureautique
+
+*Il y a de très solides alternatives aux services tels que Google Suite et Microsoft Office, qui fonctionnent de la même manière sans porter atteinte à votre vie privée*
 
 ## LibreOffice
 
@@ -20,6 +22,8 @@ CryptPad est une suite en ligne, collaborative, gratuite et open-source. Tout le
 
 ## Etherpad
 
-Etherpad est un éditeur en ligne open-source hautement personnalisable qui permet de collaborer en temps réel. 
+Etherpad est un éditeur en ligne open-source hautement personnalisable qui permet de collaborer en temps réel.
+
+[Accéder au site d'Etherpad](https://etherpad.org)
 
 [Liste des instances Etherpad](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad)
