@@ -13,6 +13,7 @@
 - [Suite bureautique](/productivité/)
 - [Courrier électronique](/email/)
 - [Messagerie instantanée](/messagerie/)
+- [Réseaux sociaux](/social/)
 - [Vidéo-conférence](/conference/)
 - [Plateforme vidéo](/video)
 - [Hébergement cloud](/cloud/)
