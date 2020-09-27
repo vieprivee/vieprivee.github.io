@@ -1,10 +1,10 @@
 ### Bienvenue sur ViePrivée
 
-*On vous espionne. ViePrivée fournit des services, des outils et des connaissances pour protéger votre vie privée contre la surveillance mondiale de masse.*
+> *On vous espionne. ViePrivée fournit des services, des outils et des connaissances pour protéger votre vie privée contre la surveillance mondiale de masse.*
 
-[Pourquoi est-ce important ?](/importance/)
+> [Pourquoi est-ce important ?](/importance/)
 
-[La mission de ViePrivée](/mission/)
+> [La mission de ViePrivée](/mission/)
 
 - [Système d'exploitation](/os/)
 - [Navigateur internet](/navigateurs/)
