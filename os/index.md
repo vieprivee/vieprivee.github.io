@@ -1,14 +1,12 @@
 # Systèmes d'exploitation
 
-*Même votre propre ordinateur peut nuire à votre vie privée. Il est important d'avoir un système d'exploitation fiable.*
+> *Même votre propre ordinateur peut nuire à votre vie privée. Il est important d'avoir un système d'exploitation fiable.*
 
-[Windows 10 - Cauchemar de la vie privée, comment mieux le configurer](/w10.md)
+>[Windows 10 - Cauchemar de la vie privée, comment mieux le configurer](/w10.md)
 
-[Qu'est-ce-que linux et pourquoi l'utiliser?](./pourquoilinux.md)
+>[Qu'est-ce-que linux et pourquoi l'utiliser ?](./pourquoilinux.md)
 
-## Pré-requis
-
-Avant de commencer, si vous ne savez pas comment changer de système d'exploitation, veuillez cliquez [ici](./tutolinux.md).
+>[Comment installer un système d'exploitation ?](./tutolinux.md)
 
 ## Systèmes d'exploitation PC
 
