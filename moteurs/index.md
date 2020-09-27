@@ -29,3 +29,9 @@ Searx est un moteur de recherche open-source, gratuit et hébergeable soi-même.
 Moteur de recherche Suisse, hébergé dans le [datacenter](https://www.mount10.ch/fr/mount10/swiss-fort-knox/) le plus sécurisé d'Europe.
 
 [Accéder à SwissCows](https://swisscows.com)
+
+## Qwant
+
+Qwant est un moteur made in France, il propose aussi d'autres services tels que : Qwant Music (résultats focalisés sur la musique), Qwant Junior (moteur de recherche adapté aux enfants) et Qwant Maps (service de carthographie, basé sur OpenStreetMaps).
+
+[Accéder à Qwant](https://www.qwant.fr/)
