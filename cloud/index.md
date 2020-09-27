@@ -1,6 +1,6 @@
 # Hébergement Cloud
 
-*Si vous utilisez un service tel que OneDrive, Google Drive, Dropbox, vous devriez utilisez une des alternatives ci-dessous. Les hébergeurs cités précédemment ont une faible politique en ce qui concerne le respect de la vie privée et la collecte de données.*
+> *Si vous utilisez un service tel que OneDrive, Google Drive, Dropbox, vous devriez utilisez une des alternatives ci-dessous. Les hébergeurs cités précédemment ont une faible politique en ce qui concerne le respect de la vie privée et la collecte de données.*
 
 ---
 
