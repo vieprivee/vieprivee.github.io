@@ -2,8 +2,6 @@
 
 > *Gmail, Outlook, Yahoo! sont certes très populaires et très simple d'utilisation mais ce sont d'énormes outils de collecte de données pour ces firmes. Tous vos courriers électroniques sont scannés pour vous offrir encore plus de publicités ciblées, et ce, même dans votre boîte mail. Les alternatives suivantes sont recommandées.*
 
----
-
 ## ProtonMail
 
 ProtonMail est un service d'e-mail siégeant à Genève, en Suisse. Axé sur le respect de la vie privée, le chiffrage des données, la sécurité et la facilité d'utilisation, celui-ci s'est déjà forgé une belle réputation. Le compte gratuit bénéficie de 500 mégaoctets de stockage. Les offres payantes commencent à 48€/an.
