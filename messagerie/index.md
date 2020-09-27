@@ -18,7 +18,7 @@ Attention cependant à bien activer les "chats secrets", ceux-ci activent le chi
 
 ## Threema
 
-Toutes vos communications sur Threema sont chiffrées de bout en bout : non seulement les messages, mais aussi les discussions de groupe, les appels vocaux, les fichiers multimédia et même les messages d'état. Vos messages ne peuvent être lus que par leur destinataire, de sorte que personne d'autre ne puisse intervenir et y avoir accès.
+Toutes vos communications sur Threema sont chiffrées de bout en bout : non seulement les messages, mais aussi les discussions de groupe, les appels vocaux, les fichiers multimédia et même les statuts. Vos messages ne peuvent être lus que par leur destinataire, de sorte que personne d'autre ne puisse intervenir et y avoir accès.
 
 Petit bémol, l'application coûte 3,99 euros. Il peut s'avérer difficile d'amener ses amis à payer pour quelque chose qu'ils ont toujours eu l'habitude d'avoir gratuitement.
 
