@@ -1,6 +1,6 @@
 # Réseaux sociaux
 
-*Trouvez un réseau social qui ne fouille pas dans vos données et ne monétise pas votre profil.*
+> *Trouvez un réseau social qui ne fouille pas dans vos données et ne monétise pas votre profil.*
 
 ## Mastodon - Alternative à Twitter
 
@@ -21,3 +21,9 @@ PixelFed est un réseau social faisant partie du Fediverse, orienté photo avec 
 Friendica est un réseau social du Fediverse de type Facebook avec des caractéristiques similaires, y compris des événements et des albums photos. Comme Mastodon et Pixelfed, Friendica est composé de nombreuses petites instances reliées entre elles.
 
 [Liste non exhaustive des instances](https://the-federation.info/friendica#nodes-table)
+
+## Element - Alternative à Discord
+
+Element (anciennement Riot.im) est un client de messagerie instantanée libre basé sur le protocole Matrix. Il comprend des chats textuels, des appels audio/vidéo et des transferts de fichiers. L'interface et le fonctionnement seront familiers aux utilisateurs de Discord.
+
+[Accéder au site d'Element](https://element.io/get-started)
