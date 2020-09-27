@@ -1,6 +1,6 @@
 # Messagerie instantanée
 
-*En utilisant des messageries non sécurisées et chiffrées (Snapchat, Facebook, Messenger, Instagram, Skype etc.), tous vos messages peuvent être lus non seulement par ceux-ci, mais par le gouvernement, des tiers tels que les annonceurs et potentiellement des pirates informatiques. Voici des alternatives ne portant pas atteinte à votre confidentialité.*
+> *En utilisant des messageries non sécurisées et chiffrées (Snapchat, Facebook, Messenger, Instagram, Skype etc.), tous vos messages peuvent être lus non seulement par ceux-ci, mais par le gouvernement, des tiers tels que les annonceurs et potentiellement des pirates informatiques. Voici des alternatives ne portant pas atteinte à votre confidentialité.*
 
 ## Signal
 
