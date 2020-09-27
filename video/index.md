@@ -1,6 +1,6 @@
 # Plateformes vidéo
 
-*Malheureusement, YouTube n'a pas vraiment de concurrent direct. Il existe cependant quand même des alternatives*
+> *Malheureusement, YouTube n'a pas vraiment de concurrent direct. Il existe cependant quand même des alternatives*
 
 ## Invidious
 
