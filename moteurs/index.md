@@ -1,8 +1,8 @@
 # Moteurs de recherche
 
-*En ce qui concerne la vie privée, il n'est pas judicieux d'utiliser les moteurs de recherche tels que Google, Yahoo, Bing, Yandex etc. Ceux-ci enregistrent votre adresse IP, vos termes de recherche et bien plus encore pour construire un profil sur vous et vous cibler avec des publicités en revendant les données aux annonceurs.*
+> *En ce qui concerne la vie privée, il n'est pas judicieux d'utiliser les moteurs de recherche tels que Google, Yahoo, Bing, Yandex etc. Ceux-ci enregistrent votre adresse IP, vos termes de recherche et bien plus encore pour construire un profil sur vous et vous cibler avec des publicités en revendant les données aux annonceurs.*
 
-*Vos recherches ne regardent que vous. Tous les moteurs de la liste sont respectueux de la vie privée, ne collectent aucune donnée, leurs publicités, quand il y en a, sont contextuelles.*
+> *Vos recherches ne regardent que vous. Tous les moteurs de la liste sont respectueux de la vie privée, ne collectent aucune donnée, leurs publicités, quand il y en a, sont contextuelles.*
 
 ---
 
