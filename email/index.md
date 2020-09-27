@@ -1,6 +1,6 @@
 # Courrier électronique
 
-*Gmail, Outlook, Yahoo! sont certes très populaires et très simple d'utilisation mais ce sont d'énormes outils de collecte de données pour ces firmes. Tous vos courriers électroniques sont scannés pour vous offrir encore plus de publicités ciblées, et ce, même dans votre boîte mail. Les alternatives suivantes sont recommandées.*
+> *Gmail, Outlook, Yahoo! sont certes très populaires et très simple d'utilisation mais ce sont d'énormes outils de collecte de données pour ces firmes. Tous vos courriers électroniques sont scannés pour vous offrir encore plus de publicités ciblées, et ce, même dans votre boîte mail. Les alternatives suivantes sont recommandées.*
 
 ---
 
