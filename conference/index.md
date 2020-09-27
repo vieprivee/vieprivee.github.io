@@ -1,6 +1,6 @@
 # Outils de conférence
 
-*L'outil de plus populaire, Zoom, est une bête noire en ce qui concerne la sécurité des données. Banni par Elon Musk par manque de sécurité, poursuivi en justice par ses propres investisseurs pour fraude, envoi de données à Facebook etc.*
+> *L'outil de plus populaire, Zoom, est une bête noire en ce qui concerne la sécurité des données. Banni par Elon Musk par manque de sécurité, poursuivi en justice par ses propres investisseurs pour fraude, envoi de données à Facebook etc. Skype, Google Meet, Discord ne sont évidemment pas recommandés non plus.*
 
 ## Jitsi Meet
 
